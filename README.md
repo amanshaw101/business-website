@@ -10,7 +10,7 @@ A responsive and modern business website developed using HTML, CSS, and JavaScri
 - **Interactive UI**: Smooth animations and user-friendly navigation.
 - **Professional Layout**: Clean and modern aesthetic suitable for businesses.
 - **Fast Performance**: Optimized for quick loading speeds.
-- **GitHub Pages Deployment**: Easily accessible via a GitHub-hosted link.
+- **GitHub Pages Deployment**: Easily accessible via a gitHub-hosted link.
 
 ## Technologies Used
 - **HTML**: Structure and content
@@ -22,7 +22,7 @@ A responsive and modern business website developed using HTML, CSS, and JavaScri
    ```sh
    git clone https://github.com/amanshaw101/business-website.git
    ```
-2. Navigate to the project directory:
+2. Navigate to the project Directory:
    ```sh
    cd business-website
    ```
